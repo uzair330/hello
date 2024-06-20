@@ -7,7 +7,7 @@ export default function Home() {
 
     <main className={styles.main}>
       
-hello world
+Welcome to Quater 02
     </main>
     </h1>
   );
