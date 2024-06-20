@@ -8,6 +8,7 @@ export default function Home() {
     <main className={styles.main}>
       
 Welcome to Quater 02
+<div>Teacher Muhammad Uzair</div>
     </main>
     </h1>
   );
